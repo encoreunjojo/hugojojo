@@ -1,0 +1,30 @@
+baseURL: ''
+languageCode: en-us
+title: encoreunjojo
+theme: papermod
+
+
+params:
+    disableThemeToggle: true
+    defaultTheme: dark
+    profileMode:
+        enabled: true
+        title: "Joss Marcialis" # optional default will be site title
+        subtitle: "This is subtitle"
+        imageUrl: "" # optional
+        imageTitle: "yo" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+            - name: Posts
+              url: "/posts/"
+            - name: Archive
+              url: "/archives"
+            - name: Github
+              url: "https://github.com/"
+
+    socialIcons: # optional
+        - name: "p1"
+          url: ""
+        - name: "p2"
+          url: ""
