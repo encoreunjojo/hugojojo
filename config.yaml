@@ -10,21 +10,23 @@ params:
     profileMode:
         enabled: true
         title: "Joss Marcialis" # optional default will be site title
-        subtitle: "This is subtitle"
-        imageUrl: "" # optional
-        imageTitle: "yo" # optional
+        subtitle: "French || ( Embedded systems && Engineer )"
+        imageUrl: "pp_crop.png" # optional
+        imageTitle: "" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
         buttons:
             - name: Posts
               url: "/posts/"
+            - name: Github
+              url: "https://github.com/encoreunjojo"
+            - name: KLB
+              url: "/posts/2023/klb"
             - name: Archive
               url: "/archives"
-            - name: Github
-              url: "https://github.com/"
 
     socialIcons: # optional
-        - name: "p1"
-          url: ""
-        - name: "p2"
-          url: ""
+        - name: "LinkedIn"
+          url: "https://www.linkedin.com/in/joss-marcialis/"
+        - name: "Instagram"
+          url: "https://instagram.com/encoreunjojo?igshid=ZDdkNTZiNTM="
