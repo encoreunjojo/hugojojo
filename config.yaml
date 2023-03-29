@@ -1,7 +1,7 @@
 baseURL: ''
 languageCode: en-us
 title: encoreunjojo
-theme: github.com/adityatelange/hugo-PaperMod
+theme: hugo-papermod
 
 
 params:
