@@ -13,7 +13,7 @@ params:
         title: "Joss Marcialis" # optional default will be site title
         subtitle: "French || ( Embedded systems && Engineer )"
         imageUrl: "pp_crop.png" # optional
-        imageTitle: "" # optional
+        imageTitle: "it's supposed to be a sideways picture of me" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
         buttons:
@@ -22,9 +22,9 @@ params:
             - name: Github
               url: "https://github.com/encoreunjojo"
             - name: KLB
-              url: "/posts/2023/klb"
+              url: "/hugojojo/posts/2023/klb"
             - name: Archive
-              url: "/archives"
+              url: "/hugojojo/archives"
 
     socialIcons: # optional
         - name: "LinkedIn"
