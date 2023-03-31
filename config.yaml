@@ -26,8 +26,6 @@ params:
               url: "/hugojojo/posts/2023/klb"
             #- name: Archive
             #  url: "/hugojojo/archives"
-            - name: e-mail
-              url: "mailto:jossmarcialis+encoreunjojo@gmail.com"
 
     socialIcons: # optional
         - name: "LinkedIn"
