@@ -8,14 +8,15 @@ url: /
 params:
     disableThemeToggle: true
     defaultTheme: dark
+    ShowBreadCrumbs: true
     profileMode:
         enabled: true
         title: "Joss Marcialis" # optional default will be site title
         subtitle: "French || ( Embedded systems && Engineer )"
         imageUrl: "pp_crop.png" # optional
         imageTitle: "it's supposed to be a sideways picture of me" # optional
-        imageWidth: 120 # custom size
-        imageHeight: 120 # custom size
+        imageWidth: 200 # custom size
+        imageHeight: 200 # custom size
         buttons:
             - name: Posts
               url: "/hugojojo/posts/"
@@ -23,8 +24,10 @@ params:
               url: "https://github.com/encoreunjojo"
             - name: KLB
               url: "/hugojojo/posts/2023/klb"
-            - name: Archive
-              url: "/hugojojo/archives"
+            #- name: Archive
+            #  url: "/hugojojo/archives"
+            - name: e-mail
+              url: "mailto:jossmarcialis+encoreunjojo@gmail.com"
 
     socialIcons: # optional
         - name: "LinkedIn"

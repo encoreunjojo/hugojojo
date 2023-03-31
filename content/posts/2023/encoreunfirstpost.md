@@ -34,10 +34,10 @@ Hello,
 I hope you can read this. If yes, it means I successfully created my personnal blog. If not, then why am I writing this ?
 
 This website has a few goals :
-- Being a front door to my online presence ;
-- To share my knowledge about work/ my passions or hobbies ;
-- To be an easy to maintain, free way of expression and exchange with you ;
+- Being a front door to my online presence. 
+- To share my knowledge about work/ my passions or hobbies. Learning on your own is hard, and it gets harder with age. Sharing your knowledge makes other grow and they will in turn make you grow. Easy ! 
+- To be an easy to maintain, free way of expression and exchange with whoever wants to.
 
-If you stumbled upon this post/ website not knowing why or how, I advise you go back to the homepage. Click a few buttons, explore the world around. This is a safe place here :-) 
+If you stumbled upon this post/ website not knowing why or how, I advise you go back to the homepage. Click a few buttons, explore the world around. This is a safe place here :-) (and please report bugs or problems ! see [contact]()) 
 
-Expect a bit of engineering sometimes, I like the "fuck around, and find out" approach and the why, the who, what, when, the where, and the how, until I'm grabbing my hair and I'm tearing it out.
+Expect a bit of engineering sometimes, I like the "f*ck around, and find out" approach and the why, the who, what, when, the where, and the how, until I'm grabbing my hair and I'm tearing it out.
