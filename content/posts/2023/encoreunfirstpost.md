@@ -37,7 +37,7 @@ You can write me via [email](mailto:encoreunjojo%20<jossmxarcialis+encoreunjojo@
 
 This website has a few goals :
 - Being a front door to my online presence. 
-- To share my knowledge about work/ my passions or hobbies. Learning on your own is hard, and it gets harder with age. Sharing your knowledge makes other grow and they will in turn make you grow. Easy ! 
+- To share my knowledge about work/ my passions or hobbies. Learning on your own is hard, and it gets harder with age. Sharing your knowledge makes others grow and they will in turn make you grow. Easy ! 
 - To be an easy to maintain, free way of expression and exchange with whoever wants to.
 
 You will find a lot of resources and posts about electronics here, as it is my day job. But who knows, I may fiddle around with other passions someday too !

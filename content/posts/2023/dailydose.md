@@ -31,4 +31,5 @@ editPost:
 ---
 
 # March 2023
+- [Ask HN: Tools to learn music theory ?](https://news.ycombinator.com/item?id=35272536)
 - [Ask HN: Where can I find a primer on how computers boot?](https://news.ycombinator.com/item?id=35229045)
