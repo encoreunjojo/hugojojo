@@ -45,10 +45,12 @@ Some of these I cherish particularly.
 - [Hacker News](https://news.ycombinator.com/)
 - [Hackaday](https://hackaday.com/)
 
-# Software
+# Softwares
 - [Micro-Cap simulation software](http://www.spectrum-soft.com/download/download.shtm)
 - [Inductor calculator](https://hamwaves.com/inductance/en/index.html)
 
+# Software dev
+- [Advanced Linux Programming book](https://mentorembedded.github.io/advancedlinuxprogramming/)
 
 # Self hosting - Home assistant
 - [HN What are your most used self-hosted apps ?](https://news.ycombinator.com/item?id=31260061)
