@@ -34,6 +34,7 @@ cover:
 ---
 It contains useful resources for me, that might be useful to you.  
 It is organized in categories that will help us find our way into here.
+It will be updated, on a non regular basis, depending on what I stumble upon.
 
 
 # Top of the list

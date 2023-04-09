@@ -1,29 +1,31 @@
-baseURL: ''
-languageCode: en-us
+baseURL: 'https://encoreunjojo.github.io/'
+languageCode: en-gb
 title: encoreunjojo
-theme: papermod
+theme: PaperMod
+url: /
 
 
 params:
     disableThemeToggle: true
     defaultTheme: dark
+    ShowBreadCrumbs: true
     profileMode:
         enabled: true
         title: "Joss Marcialis" # optional default will be site title
         subtitle: "French || ( Embedded systems && Engineer )"
         imageUrl: "pp_crop.png" # optional
-        imageTitle: "" # optional
-        imageWidth: 120 # custom size
-        imageHeight: 120 # custom size
+        imageTitle: "it's supposed to be a sideways picture of me" # optional
+        imageWidth: 200 # custom size
+        imageHeight: 200 # custom size
         buttons:
             - name: Posts
-              url: "/posts/"
+              url: "/hugojojo/posts/"
             - name: Github
               url: "https://github.com/encoreunjojo"
             - name: KLB
-              url: "/posts/2023/klb"
-            - name: Archive
-              url: "/archives"
+              url: "/hugojojo/posts/2023/klb"
+            #- name: Archive
+            #  url: "/hugojojo/archives"
 
     socialIcons: # optional
         - name: "LinkedIn"

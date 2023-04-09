@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "An often updated list of what I find interesting to read or inspiring."
+description: "An often updated list of what I find interesting to read or inspiring. Referenced by month."
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
@@ -30,4 +30,6 @@ editPost:
 
 ---
 
--[Inductor calculator](https://hamwaves.com/inductance/en/index.html)
+# March 2023
+- [Ask HN: Tools to learn music theory ?](https://news.ycombinator.com/item?id=35272536)
+- [Ask HN: Where can I find a primer on how computers boot?](https://news.ycombinator.com/item?id=35229045)
