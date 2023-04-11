@@ -44,7 +44,9 @@ Some of these I cherish particularly.
 
 # News websites
 - [Hacker News](https://news.ycombinator.com/)
+- [All About Circuits](https://www.allaboutcircuits.com/)
 - [Hackaday](https://hackaday.com/)
+
 
 # Softwares
 - [Micro-Cap simulation software](http://www.spectrum-soft.com/download/download.shtm)
@@ -59,6 +61,7 @@ Some of these I cherish particularly.
 
 # Fonts
 - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
+- [B612 Font](https://b612-font.com/)
 
 # Academics
 - [SYNCHRONOUS PROGRAMMING AND VERIFICATION WITH SIGNAL LANGUAGE](https://www.lirmm.fr/~gamatie/pages/polytech-montpellier-FV-2021.html), A. Gamatié
