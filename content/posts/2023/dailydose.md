@@ -31,6 +31,7 @@ editPost:
 ---
 
 # April 2023
+- [The basics of decoupling capacitors](https://lcamtuf.substack.com/p/the-basics-of-decoupling-capacitors)
 - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
 
 # March 2023
