@@ -69,6 +69,7 @@ Some of these I cherish particularly.
 # Inspo
 - [Ten Minutes Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html)
 - [Icamtuf's things](https://lcamtuf.substack.com/)
+- [TangentSoft](https://tangentsoft.com/)
 
 # Other
 - [Emojipedia](https://emojipedia.org/)
