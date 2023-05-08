@@ -30,10 +30,10 @@ editPost:
 
 ---
 
-# April 2023
+# Q2 2023
 - [The basics of decoupling capacitors](https://lcamtuf.substack.com/p/the-basics-of-decoupling-capacitors)
 - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
 
-# March 2023
+# Q1 2023
 - [Ask HN: Tools to learn music theory ?](https://news.ycombinator.com/item?id=35272536)
 - [Ask HN: Where can I find a primer on how computers boot?](https://news.ycombinator.com/item?id=35229045)
