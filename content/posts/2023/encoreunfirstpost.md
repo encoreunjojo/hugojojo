@@ -31,10 +31,6 @@ editPost:
 
 Hello,
 
-I hope you can read this. If yes, it means I successfully created my personnal blog. If not, then why am I writing this ?
-
-You can write me via [email](mailto:encoreunjojo%20<jossmxarcialis+encoreunjojo@gmail.com>) (remove the x, it was added to prevent spam).
-
 This website has a few goals :
 - Being a front door to my online presence. 
 - To share my knowledge about work/ my passions or hobbies. Learning on your own is hard, and it gets harder with age. Sharing your knowledge makes others grow and they will in turn make you grow. Easy ! 

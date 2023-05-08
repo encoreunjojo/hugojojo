@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "An often updated list of what I find interesting to read or inspiring. Referenced by month."
+description: "An often updated list of what I find interesting to read or inspiring. Referenced by quarters."
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
@@ -29,6 +29,11 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 
 ---
+
+# *Au fil de l'eau* posts or websites that are quick reads and interesting.
+---
+I try to update this list as soon as I meet these posts/ websites, but mileage may vary (I'm not the kind of person that opens github to push an interesting post when i'm in the metro). 
+Check my KLB for my inspiration sources for some of the links here.
 
 # Q2 2023
 - [The basics of decoupling capacitors](https://lcamtuf.substack.com/p/the-basics-of-decoupling-capacitors)
