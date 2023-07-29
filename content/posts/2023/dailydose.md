@@ -35,6 +35,11 @@ editPost:
 I try to update this list as soon as I meet these posts/ websites, but mileage may vary (I'm not the kind of person that opens github to push an interesting post when i'm in the metro). 
 Check my KLB for my inspiration sources for some of the links here.
 
+# Q3 2023
+- [The Sourdough Framework](https://github.com/hendricius/the-sourdough-framework) People are really passionate about bread !
+- [Solar powered ePaper photo frame](https://www.jamez.it/blog/2023/05/16/version-2-of-my-solar-powered-epaper-digital-photo-frame/)
+
+
 # Q2 2023
 - [The basics of decoupling capacitors](https://lcamtuf.substack.com/p/the-basics-of-decoupling-capacitors)
 - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)

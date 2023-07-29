@@ -47,10 +47,16 @@ Some of these I cherish particularly.
 - [All About Circuits](https://www.allaboutcircuits.com/)
 - [Hackaday](https://hackaday.com/)
 
+# Electronics and Embeddeds
+- [Ultimate Electronics Book](https://ultimateelectronicsbook.com/)
+- [Antenna handbook (from MCRP)](https://www.marines.mil/Portals/1/MCRP 3-40.3C With Erratum z.pdf)
+- [Common crimps and connectors](https://www.mattmillman.com/info/crimpconnectors/)
 
 # Softwares
 - [Micro-Cap simulation software](http://www.spectrum-soft.com/download/download.shtm)
 - [Inductor calculator](https://hamwaves.com/inductance/en/index.html)
+- [Finite Elements Methos Magnetics](https://www.femm.info/wiki/HomePage)
+- [4nec2](https://www.qsl.net/4nec2/) Beware: oldschool website ! Preserve it at all costs.
 
 # Software dev
 - [Advanced Linux Programming book](https://mentorembedded.github.io/advancedlinuxprogramming/)
