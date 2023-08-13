@@ -51,6 +51,7 @@ Some of these I cherish particularly.
 - [Ultimate Electronics Book](https://ultimateelectronicsbook.com/)
 - [Antenna handbook (from MCRP)](https://www.marines.mil/Portals/1/MCRP 3-40.3C With Erratum z.pdf)
 - [Common crimps and connectors](https://www.mattmillman.com/info/crimpconnectors/)
+- [40 uses for Germanium diodes](https://frank.pocnet.net/other/Sylvania/40_Uses_for_Germanium_Diodes.pdf)
 
 # Softwares
 - [Micro-Cap simulation software](http://www.spectrum-soft.com/download/download.shtm)
@@ -60,6 +61,7 @@ Some of these I cherish particularly.
 
 # Software dev
 - [Advanced Linux Programming book](https://mentorembedded.github.io/advancedlinuxprogramming/)
+- [Practical Python Course](https://github.com/dabeaz-course/practical-python)
 
 # Self hosting - Home assistant
 - [HN What are your most used self-hosted apps ?](https://news.ycombinator.com/item?id=31260061)

@@ -38,7 +38,8 @@ Check my KLB for my inspiration sources for some of the links here.
 # Q3 2023
 - [The Sourdough Framework](https://github.com/hendricius/the-sourdough-framework) People are really passionate about bread !
 - [Solar powered ePaper photo frame](https://www.jamez.it/blog/2023/05/16/version-2-of-my-solar-powered-epaper-digital-photo-frame/)
-
+- [Roman Black personal website](https://www.romanblack.com/)
+- [555 teardown](http://www.righto.com/2016/02/555-timer-teardown-inside-worlds-most.html)
 
 # Q2 2023
 - [The basics of decoupling capacitors](https://lcamtuf.substack.com/p/the-basics-of-decoupling-capacitors)
